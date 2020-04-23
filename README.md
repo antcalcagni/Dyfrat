@@ -23,7 +23,7 @@ The DYFRAT package, along with its graphical interface, has been implemented und
 <i>analysis_movements.m</i> for the analysis of the spatial component of the fuzzy sets;
 <i>analysis_time.m</i> for the analysis of the temporal component of the fuzzy sets;
 <i>synthesis_measures.m</i> for summarizing fuzzy sets.
-
+- All the other .m files are intended as internal functions called by the main functions <i>analysis_movements.m</i>, <i>analysis_time.m</i> and <i>synthesis_measures.m</i>.
 
 
 
