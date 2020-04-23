@@ -16,6 +16,7 @@ DYFRAT components:
 (1) A Data-Capturing Procedure (DCP) which implements a customized computerized interface for collecting the motor and temporal components in the process of rating (2) a Data-Modeling Procedure (DMP) which provides a fuzzy model for the recorded information (3) a User's Guide. This guide will provide a detailed description about the functioning of the DYFRAT system.
 
 # Note
-The DYFRAT package, along with its graphical interface, has been implemented under Matlab 2012a. Some users may therefore experience some problems in running the DYFRAT graphical interface with newest Matlab versions. However, all the scripts implementing the DYFRAT algorithms can still be run manually
+The DYFRAT package, along with its graphical interface, has been implemented under Matlab 2012a. Some users may therefore experience some problems in running the DYFRAT graphical interface with newest Matlab versions. However, all the scripts implementing the DYFRAT algorithms can still be run manually. The package contains the following main functions;
+- <i>main.m</i> starts the graphical interface
 
 
