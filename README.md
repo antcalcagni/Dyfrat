@@ -3,6 +3,7 @@ Matlab package implementing the DYFRAT methodology for fuzzy rating scales.
 
 # Publication
 Calcagnì, A., Lombardi, L. Dynamic Fuzzy Rating Tracker (DYFRAT): A novel methodology for modeling real-time dynamic cognitive processes in rating scales. Applied Soft Computing Journal, 24, pp. 948-961.
+
 Publisher website: https://www.sciencedirect.com/science/article/abs/pii/S1568494614004141?via%3Dihub
 
 # Summary
