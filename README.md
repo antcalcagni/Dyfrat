@@ -16,7 +16,11 @@ DYFRAT components:
 (1) A Data-Capturing Procedure (DCP) which implements a customized computerized interface for collecting the motor and temporal components in the process of rating (2) a Data-Modeling Procedure (DMP) which provides a fuzzy model for the recorded information (3) a User's Guide. This guide will provide a detailed description about the functioning of the DYFRAT system.
 
 # Note
-The DYFRAT package, along with its graphical interface, has been implemented under Matlab 2012a. Some users may therefore experience some problems in running the DYFRAT graphical interface with newest Matlab versions. However, all the scripts implementing the DYFRAT algorithms can still be run manually. The package contains the following main functions;
+The DYFRAT package, along with its graphical interface, has been implemented under Matlab 2012a. Some users may therefore experience some problems in running the DYFRAT graphical interface with newest Matlab versions. However, all the scripts implementing the DYFRAT algorithms can still be run manually. The package contains the following main functions:
 - <i>main.m</i> starts the graphical interface
+- <i>readValues.m</i> reads the raw mouse-tracking data. The file is called values.txt, it should be formatted as indicated in Calcagnì & Lombardi (2014), and must be located in the same folder where the .m functions are located. As example, see the demo file values.txt which is provided in the current version of the package.
+- <i>data_analysis_main.m</i> starts the three steps data analysis:
+-- <i>analysis_movements.m</i> for the analysis of the spatial component of the fuzzy sets
+
 
 
